@@ -13,12 +13,12 @@ Original switches marked SKELAF in the Service Manual:
 
 ![Alt text](/photo/SKELAF.png?raw=true "SKELAF WTF")
 
-Looks very similar to modern SKPLAFD010 from ALPS
+Looks very similar to modern SKPLAFD010 from ALPS [(Datasheet)](PDF/ALPS-SKPLAFD010.pdf)
 
 
 Possible switches replacement:
 
 - Omron B3M-6009
-- Panasonic EVQ-PV205K
+- Panasonic EVQ-PV205K [(Datasheet)](PDF/Panasonic-EVQ-PVA05K.pdf)
 - E-Switch TL1140AF070Q
 
