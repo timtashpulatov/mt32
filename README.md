@@ -6,4 +6,4 @@ Prosthetic parts for lonely MT-32 board once salvaged at local flea market
 
 Missing:
 - Switch board and LCD
-[[File: photo/pops.png]]
+![Alt text](/photo/tn_65_20140117194329.jpg?raw=true "Switch board and LCD")
