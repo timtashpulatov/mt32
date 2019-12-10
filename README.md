@@ -13,6 +13,9 @@ Original switches marked SKELAF in the Service Manual:
 
 ![Alt text](/photo/SKELAF.png?raw=true "SKELAF WTF")
 
+Looks very similar to modern SKPLAFD010 from ALPS
+
+
 Possible switches replacement:
 
 - Omron B3M-6009
