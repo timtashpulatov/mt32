@@ -11,10 +11,7 @@ Missing:
 
 Possible switches replacement:
 
------------------------
-|Omron|B3M-6009|
------------------------
-|Panasonic|EVQ-PV205K|
------------------------
-|E-Switch|TL1140AF070Q|
------------------------
+- Omron B3M-6009
+- Panasonic EVQ-PV205K
+- E-Switch TL1140AF070Q
+
