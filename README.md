@@ -22,3 +22,6 @@ Possible switches replacement:
 - Panasonic EVQ-PV205K [(Datasheet)](PDF/Panasonic-EVQ-PVA05K.pdf)
 - E-Switch TL1140AF070Q
 
+EVQ-PVA05K:
+
+![Alt text](/photo/EVQ-PVA05K.png?raw=true "PVA05K")
