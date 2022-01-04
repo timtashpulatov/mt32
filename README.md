@@ -15,6 +15,7 @@ Original switches marked SKELAF in the Service Manual:
 
 Looks very similar to modern SKPLAFD010 from ALPS [(Datasheet)](PDF/ALPS-SKPLAFD010.pdf)
 
+SKELAK was used in the Roland MKS-20 https://telcontar.net/KBK/Alps/elastic_contact
 
 Possible switches replacement:
 
