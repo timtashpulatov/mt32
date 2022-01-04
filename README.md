@@ -17,6 +17,8 @@ Looks very similar to modern SKPLAFD010 from ALPS [(Datasheet)](PDF/ALPS-SKPLAFD
 
 SKELAK was used in the Roland MKS-20 https://telcontar.net/KBK/Alps/elastic_contact
 
+Check out SKEGAEA010 (with stem) (Datasheet)](PDF/ALPS-SKEGAEA010.pdf)
+
 Possible switches replacement:
 
 - Omron B3M-6009
