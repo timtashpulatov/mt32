@@ -5,7 +5,7 @@ Prosthetic parts for lonely MT-32 board once salvaged at local flea market
 
 ##### Table of Contents  
 [Missing](#missing)
-[Emphasis](#emphasis)  
+
 
 <a name="missing"/>
 
