@@ -3,13 +3,13 @@ Ghetto synth
 
 Prosthetic parts for lonely MT-32 board once salvaged at local flea market
 
-##### Table of Contents  
-[Missing](#missing)
+##### Missing
+[Switch board](#sw_board)
+[LCD](#lcd)
 
+<a name="sw_board"/>
 
-<a name="missing"/>
-
-## Missing:
+## SWitch board:
 
 - Switch board and LCD
 ![Alt text](/photo/tn_65_20140117194329.jpg?raw=true "Switch board and LCD (Front)")
@@ -35,3 +35,8 @@ Possible switches replacement:
 EVQ-PVA05K:
 
 ![Alt text](/photo/EVQ-PVA05K.png?raw=true "PVA05K")
+
+<a name="lcd"/>
+
+## LCD:
+</a>
