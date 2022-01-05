@@ -3,13 +3,14 @@ Ghetto synth
 
 Prosthetic parts for lonely MT-32 board once salvaged at local flea market
 
-##### Missing
+##### Table of Contents
 [Switch board](#sw_board)
-[LCD](#lcd)
+
+[LCD](#lcd) 
 
 <a name="sw_board"/>
 
-## SWitch board:
+## Switch board
 
 - Switch board and LCD
 ![Alt text](/photo/tn_65_20140117194329.jpg?raw=true "Switch board and LCD (Front)")
@@ -38,5 +39,6 @@ EVQ-PVA05K:
 
 <a name="lcd"/>
 
-## LCD:
+## LCD module
+DM2011 from Sanyo, with Epson SED1200 controller
 </a>
