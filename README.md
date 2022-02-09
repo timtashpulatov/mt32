@@ -5,8 +5,11 @@ Prosthetic parts for lonely MT-32 board once salvaged at local flea market
 
 ##### Table of Contents
 [Switch board](#sw_board)
+
 [LCD](#lcd)
+
 [POWER_SW](#power_sw)
+
 
 <a name="sw_board"/>
 
