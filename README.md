@@ -42,3 +42,7 @@ EVQ-PVA05K:
 ## LCD module
 DM2011 from Sanyo, with Epson SED1200 controller
 </a>
+
+## Power Switch
+SPUN19F from ALPS
+https://tech.alpsalpine.com/prod/e/html/switch/push/spun/spun19c400.html
