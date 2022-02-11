@@ -51,3 +51,7 @@ DM2011 from Sanyo, with Epson SED1200 controller
 ## Power Switch
 SPUN19F from ALPS
 https://tech.alpsalpine.com/prod/e/html/switch/push/spun/spun19c400.html
+
+## NOTES
+DM2011 LCD module is clocked from SO7 port (pin 74 of IC35), via RC filter R62 (1K) and C83 (22p)
+![image](https://user-images.githubusercontent.com/5108024/153589226-db2249e8-a13c-44f8-95c6-88f33957467a.png)
